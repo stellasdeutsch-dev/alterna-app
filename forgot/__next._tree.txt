@@ -1,6 +1,6 @@
 :HL["/alterna-app/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/alterna-app/_next/static/chunks/1h-fkhz9t-4uv.css","style"]
+:HL["/alterna-app/_next/static/chunks/1n-w2wpqwrsy6.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"forgot","h":96,"c":"$Q2"}]]
-0:{"b":"2Sq3yzQSnKZlVyOuwA9Jz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"UMMHQFvCDymmyAuwzXZLy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
