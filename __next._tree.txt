@@ -2,4 +2,4 @@
 :HL["/alterna-app/_next/static/chunks/17ky2apadik5l.css","style"]
 :HC["/",""]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"CR5SAGr9hSXn8DCU2yALT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"9z9bNX5m_JdfYk2xa-ILH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
