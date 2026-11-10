@@ -1,8 +1,8 @@
 :HL["/alterna-app/_next/static/chunks/2iwv-g99f3uh3.css","style"]
-:HL["/alterna-app/_next/static/chunks/0vncjx7d_uakw.css","style"]
+:HL["/alterna-app/_next/static/chunks/0yr2-1ytknm86.css","style"]
 :HC["/",""]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":{"n":"id","t":"d","k":"b2.dig-halde","s":[]},"h":96,"c":"$Q4"}]]
 2:[["children",{"s":"view","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"guide","h":96,"c":"$Q2"}]]
-0:{"b":"rxf2vxi2yf1Jv5J8VhPXZ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"4y2-ZDBUxyQfX_-bxnzLJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
